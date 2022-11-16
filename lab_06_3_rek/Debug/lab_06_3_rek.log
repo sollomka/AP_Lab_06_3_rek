@@ -1,0 +1,9 @@
+﻿  pch.cpp
+  lab_06_3_rek.cpp
+C:\Users\Acer\source\repos\AP_Lab_06_3(rek)\AP_Lab_06_3(rek)\lab_06_3(rek).cpp(54): warning C4715:  'iMin': not all control paths return a value
+C:\Users\Acer\source\repos\AP_Lab_06_3(rek)\AP_Lab_06_3(rek)\lab_06_3(rek).cpp(69): warning C4715:  'Sort': not all control paths return a value
+C:\Users\Acer\source\repos\AP_Lab_06_3(rek)\lab_06_3_rek\lab_06_3_rek.cpp(26): warning C4715:  'TestMin': not all control paths return a value
+C:\Users\Acer\source\repos\AP_Lab_06_3(rek)\lab_06_3_rek\lab_06_3_rek.cpp(41): warning C4715:  'TestiMin': not all control paths return a value
+C:\Users\Acer\source\repos\AP_Lab_06_3(rek)\AP_Lab_06_3(rek)\lab_06_3(rek).cpp(39): warning C4715:  'Min': not all control paths return a value
+     Creating library C:\Users\Acer\source\repos\AP_Lab_06_3(rek)\Debug\lab_06_3_rek.lib and object C:\Users\Acer\source\repos\AP_Lab_06_3(rek)\Debug\lab_06_3_rek.exp
+  lab_06_3_rek.vcxproj -> C:\Users\Acer\source\repos\AP_Lab_06_3(rek)\Debug\lab_06_3_rek.dll
